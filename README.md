@@ -9,9 +9,3 @@ Como realizar insercion de datos en la base con la informacion entregada por los
 Estas son las bases para poder trabajar con la busqueda, insercion, eliminacion de datos, previo a a conexion.
 
 Tambien, podras observar en el codigo, como realizar el contenedor de las variables necesario para interpretar los datos antes de realizar la insercion de datos, llamado "Diccionario".
-
-Con el apoyo del docente Ruben Leiva.
-
-Ignacio Rumante A,
-
-Aiep Rancagua 2016.
